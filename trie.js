@@ -96,8 +96,8 @@ trie.addWord("banica", "boza");
 trie.addWord("banana", "peanuts");
 
 
-print(trie.getValue("banica"));
-print(trie.getValue("banan"));
-print(trie.getValue("banana"));
-print(trie.getValue("bananaa"));
+println(trie.getValue("banica"));
+println(trie.getValue("banan"));
+println(trie.getValue("banana"));
+println(trie.getValue("bananaa"));
 */
